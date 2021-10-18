@@ -1,0 +1,103 @@
+#head {
+    height: 65%;
+    background-color: rgb(182, 201, 201);
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+img {
+    border: 4px solid rgb(253, 85, 7);
+    border-radius: 10%;
+    width: 500px;
+    padding: 5px;
+}
+
+#img1 {
+    margin-right: 5px;
+    float: left;
+    margin-left: 20px;
+    width: 200px;
+}
+
+#img2 {
+    height: 200px;
+    width: 300px;
+}
+
+#img3 {
+    float: right;
+    width: 230px;
+}
+
+#img4 {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    width: 200px;
+    float: left;
+    margin-top: 5px;
+}
+
+#img5 {
+    width: 250px;
+    height: 250px;
+}
+
+#img6 {
+    margin-block: 50%;
+    margin-top: 10px;
+    width: 250px;
+}
+
+#perg1 {
+    font-size: larger;
+    width: 30%;
+    float: left;
+    color: rgb(26, 13, 87);
+    margin-right: 70%;
+    margin-top: 35px;
+}
+
+#perg2 {
+    color: rgb(44, 107, 24);
+    height: 40%;
+    width: 30%;
+    position: absolute;
+    margin-left: 35%;
+    margin-right: 34%px;
+    font-size: larger;
+}
+
+#perg3 {
+    color: rgb(110, 29, 15);
+    margin-top: 35px;
+    position: absolute;
+    margin-left: 70%;
+    font-size: larger;
+}
+
+#midt {
+    font-size: larger;
+    color: rgb(94, 23, 94);
+    margin-bottom: 5px;
+    margin-top: 20px;
+    border-color: lightcoral;
+    width: 62%;
+    float: left;
+}
+
+#sidebar {
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    width: 35%;
+    color: maroon;
+    padding: 4px;
+    font-size: 25px;
+    background-origin: border-box;
+}
+
+.perg6 {
+    margin-left: 35%;
+    margin-top: 20px;
+    color: rgb(88, 17, 88);
+}
